@@ -1,0 +1,13 @@
+#name {
+    color: red; font-size: 35px; font-style: italic;
+}
+#react {
+    padding-top: 10px; padding-bottom: 20px; font-size: 20px; color: darkred; font-style: italic;
+}
+.content {
+    color: yellow; : 5px; outline-color: aqua;
+}
+
+.reset {
+    all: revert;
+}
